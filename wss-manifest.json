@@ -1,8 +1,0 @@
-{
-  "manifestVersion": "1.0",
-  "plugin": {
-    "name": "CyberSource Payment Integration",
-    "description": "",
-    "version": "1.0"
-  }
-}

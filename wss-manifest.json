@@ -1,7 +1,7 @@
 {
   "manifestVersion": "1.0",
   "plugin": {
-    "name": "CyberSoure Payment Integration",
+    "name": "CyberSource Payment Integration",
     "description": "",
     "version": "1.0"
   }
